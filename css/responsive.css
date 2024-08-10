@@ -1,0 +1,211 @@
+@media screen and (max-width:1199px){
+    .container{
+        width: 980px;
+    }
+    .logo {  
+        width: 66%;
+    }
+    nav {
+       
+        width: 33%;
+    }
+    .header-part img {
+        height: 340px;
+    }
+    #trans {
+        transform: translatex(18px);
+    }
+    #trans0 {
+        transform: translatex(26px);
+    }
+    #trans1 {
+        transform: translatex(35px);
+    }
+    .ssg-inner {
+        margin: 0px 9px;
+    }
+    .roc-inner img {
+        width: 100%;
+        height: 290px;
+    }
+    .classes p {
+        padding-right: 29px;
+        padding-left: 15px;
+    }
+    .roc {
+        padding: 18px;
+    }
+    .one img, .two img, .three img, .four img, .five img {
+        max-height: 200px;
+        min-width: 152px;
+    }
+}
+@media screen and (max-width:979px){
+    .container{
+        width: 750px;
+    }
+    .logo {  
+        width: 57%;
+    }
+    nav {
+       
+        width: 42%;
+    }
+    .header-part-content p {
+        margin: 0 50px 0 0;
+    }
+    .header-part img {
+        height: 340px;
+    }
+    .main{
+        text-align: center;
+    }
+    .main, .roc-22, .images{
+        flex-wrap: wrap;
+    }
+    .images{
+        justify-content: center;
+    }
+    .ssg-inner{
+        margin-bottom: 30px;
+    }
+    #trans {
+        transform: translatex(2px);
+    }
+    #trans0 {
+        transform: translatex(20px);
+    }
+    #trans1 {
+        transform: translatex(22px);
+    }
+    .place-top {
+        flex-wrap: wrap;
+    }
+    .place {
+        padding-bottom: 80px;
+    }
+    .line-fitness {
+        height: 454px;
+    }
+    .roc-inner {
+        padding-bottom: 70px;
+    }
+}
+@media screen and (max-width:767px){
+    .container{
+        width: 96%;
+    }
+    .logo {  
+        width: 100%;
+        text-align: center;
+    }
+    nav {
+        width: 101%;
+        text-align: center;
+    }
+    .container-center {
+        padding: 0px
+    }
+    h1 {
+        font-size: 40px;
+    }
+    h2 {
+        font-size: 33px;
+        padding: 50px 0 55px;
+    }
+    .header-part-fix{
+        flex-wrap: wrap;
+    }
+    .header-part{
+        height: 900px;
+    }
+    .header-part img {
+        height: 0px; 
+    }
+    h4 {
+        font-size: 44px;
+    }
+    h5 {
+        font-size: 40px;
+    }
+    #trans {
+        transform: translatex(15px);
+    }
+    .classes,.pera,.pera1{
+        flex-wrap: wrap;
+        border-right:none ;
+        border-bottom: 2px solid #e5e5e5;
+        padding: 6px;
+    }
+    .classes,.inner{
+        margin-bottom: 40px;
+        border-bottom: none;
+    }
+    .roc-inner img{
+        max-width: 100%;
+    }
+    .images{
+        max-width: 100%;
+    }
+    footer h4 {
+        font-size: 19px;
+    }
+    footer h5 {
+        font-size: 16px;
+    }
+    .ssg-inner img{
+        width: 100%;
+    }
+    footer form input {
+        width: 286px;
+    }
+    .gym-top p {
+        font-size: 10px;
+        padding-bottom: 40px;
+    }
+    .place-top {
+flex-wrap: wrap;
+    }
+    .place form input {
+        width: 300px;
+    }
+    .place form input.button-tip {
+        width: 300px;
+    }
+    .place {
+        padding-bottom: 80px;
+    }
+    .place-middle {
+        padding-left: 0px;
+        max-width: 100%;
+    }
+    .futtor-logo {
+        font-size: 21px;
+    }
+    .solid-line p {
+        padding: 0px 1px 0px 7px;
+        font-size: 20px;
+    }
+    .solid-line h4 {
+        font-size: 21px;
+        padding: 30px 0 39px 10px;
+        padding-left: 17px;
+    }
+    .line-fitness {
+        height: 990px;
+    }
+    .bottam-line {
+        padding-bottom: 80px;
+    }
+    .pagenation ul li a {
+        margin: 3px;
+    }
+    .pagenation {
+        padding-bottom: 80px;
+    }
+    .roc-inner {
+        margin-right: 3px;
+        padding-bottom: 40px;
+    }
+}
+
